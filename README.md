@@ -49,6 +49,7 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 - **Course**: [Software Development Process](https://classroom.udacity.com/courses/ud805)
 - [Prof. Terence Parr, USF **CS601**](https://github.com/parrt/cs601)
 - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTntYbKsUs6Pj8_BO_8ou4y07)
+- [Software Engineering&Data Science](https://app.datacamp.com/learn/courses/software-engineering-for-data-scientists-in-python) by Datacamp
 
 #### CS406 DevOps with Docker
 - [Udemy Docker course](https://www.udemy.com/course/learn-docker/)
